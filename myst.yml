@@ -10,6 +10,8 @@ project:
     execute_notebooks: auto
 site:
   template: book-theme
+  options: 
+    logo_text: ML Book
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
