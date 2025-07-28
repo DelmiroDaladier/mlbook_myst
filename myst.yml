@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 1f008c09-8f10-402d-9995-3b784dfc0182
-  github: https://github.com/jupyter-book/mystmd-quickstart
+  github: https://github.com/DelmiroDaladier/mlbook_myst
   plugins:
     - type: javascript
       path: markup.mjs
