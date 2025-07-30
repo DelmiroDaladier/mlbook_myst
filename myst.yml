@@ -1,4 +1,3 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   id: 1f008c09-8f10-402d-9995-3b784dfc0182
@@ -12,7 +11,4 @@ site:
   template: book-theme
   options: 
     logo_text: ML Book
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
 
